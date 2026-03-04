@@ -1,6 +1,6 @@
 # Workflow CA
 
-A venue booking website (Holidaze) configured with professional development tools and automated testing.
+Noroff Course assignment - WorkFlow - Testing
 
 ## Getting Started
 
