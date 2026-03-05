@@ -72,3 +72,28 @@ Tests the following:
 - **Prettier** - Code formatting with single quotes, semicolons, and trailing commas
 - **Husky** - Git hook that runs lint-staged before every commit
 - **lint-staged** - Formats HTML files and formats + lints JavaScript files on commit
+
+# AI Usage Log
+
+## Tool: Claude (Anthropic)
+**Date:** 04.03.2026
+
+### Usage 1
+**Purpose:** Explaining concepts (ESLint, Prettier, Husky, Vitest, Playwright)
+**Outcome:** Improved understanding of each tool's role in a development workflow
+
+### Usage 2
+**Purpose:** Syntax guidance for configuration files (eslint.config.mjs, .prettierrc, vitest.config.js, playwright.config.js)
+**Outcome:** Configuration files generated with guidance, reviewed and understood
+
+### Usage 3
+**Purpose:** Debugging errors (ESLint globals, Playwright connection errors, Husky Windows issues)
+**Outcome:** Errors resolved with explanations understood
+
+### Usage 4
+**Purpose:** Generating boilerplate for unit tests (Vitest) and e2e tests (Playwright)
+**Outcome:** Test files generated, logic reviewed and understood
+
+### Usage 5
+**Purpose:** Drafting README documentation
+**Outcome:** README drafted with AI, reviewed and edited
